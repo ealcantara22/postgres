@@ -1,4 +1,4 @@
-## Postres-Docker
+## Postgres-Docker
 
 ### Description
 A postgres instance fast and easy with docker.
